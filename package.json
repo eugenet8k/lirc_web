@@ -8,7 +8,7 @@
     "compression": "^1.6.0",
     "consolidate": "^0.13.1",
     "express": "^4.13.0",
-    "lirc_node": "0.0.4",
+    "lirc_node": "git@github.com:eugenet8k/lirc_node.git#promises-and-updates",
     "lodash": "^3.10.1",
     "morgan": "^1.6.1",
     "swig": "^1.4.2"
